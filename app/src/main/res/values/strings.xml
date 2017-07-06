@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">A2Z Dictionary</string>
+    <string name="eng_to_eng">ENGLISH TO ENGLISH</string>
+    <string name="ete">ENGLISH TO ENGLISH</string>
+    <string name="eth">ENGLISH TO HINDI</string>
+    <string name="write_text">ENTER WORD</string>
+    <string name="about">ABOUT</string>
+    <string name="search">SEARCH</string>
+</resources>

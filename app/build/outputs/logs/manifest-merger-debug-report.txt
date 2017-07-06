@@ -1,0 +1,107 @@
+-- Merging decision tree log ---
+manifest
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:2:1-31:12
+	package
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:3:5-54
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+	android:versionName
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+	xmlns:android
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+application
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:5:5-29:19
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\amber gautam\.android\build-cache\043a7695d3d9c2dd9a48cf812d8010a526571c74\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\amber gautam\.android\build-cache\8179c5e4b3fcd63b704aea2d178ca43e3c7ea4b8\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\352bb739e9bdec0cffd2ece5842afbe923056d0d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\amber gautam\.android\build-cache\c2ac5906a4e8001be5a7bc83112ac2fbcb1723c3\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\amber gautam\.android\build-cache\d443efa7d2e975c3fd012f1b2cb662a6bb22845d\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\110d6f2f51992dda28ffbb7603dee722e74ab735\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\13aa8ebeb156833509400f5fd346b26a34a1044e\output\AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\005c97f38097ed552969538d6717be1bff6e5377\output\AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\amber gautam\.android\build-cache\08e54fe00f57d04140999df0ab6e60a26ad30cf1\output\AndroidManifest.xml:9:5-20
+	android:label
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:8:9-41
+	android:supportsRtl
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:10:9-35
+	android:roundIcon
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:9:9-43
+	android:allowBackup
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:6:9-35
+	android:icon
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:7:9-38
+	android:theme
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:11:9-40
+activity#com.wordpress.ambergautam.a2zdictionary.Home
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:12:9-20:20
+	android:screenOrientation
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:14:13-49
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:13:13-33
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:15:13-19:29
+action#android.intent.action.MAIN
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:16:17-69
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:16:25-66
+category#android.intent.category.LAUNCHER
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:18:17-77
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:18:27-74
+activity#com.wordpress.ambergautam.a2zdictionary.English_to_english
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:21:9-23:50
+	android:label
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:23:13-47
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:22:13-47
+activity#com.wordpress.ambergautam.a2zdictionary.English_to_hindi
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:24:9-26:48
+	android:label
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:26:13-45
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:25:13-45
+activity#com.wordpress.ambergautam.a2zdictionary.Result
+ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:27:9-28:47
+	android:label
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:28:13-35
+	android:name
+		ADDED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml:27:19-41
+uses-sdk
+INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\amber gautam\.android\build-cache\043a7695d3d9c2dd9a48cf812d8010a526571c74\output\AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\amber gautam\.android\build-cache\8179c5e4b3fcd63b704aea2d178ca43e3c7ea4b8\output\AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\352bb739e9bdec0cffd2ece5842afbe923056d0d\output\AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\amber gautam\.android\build-cache\c2ac5906a4e8001be5a7bc83112ac2fbcb1723c3\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\amber gautam\.android\build-cache\d443efa7d2e975c3fd012f1b2cb662a6bb22845d\output\AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\110d6f2f51992dda28ffbb7603dee722e74ab735\output\AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\13aa8ebeb156833509400f5fd346b26a34a1044e\output\AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\005c97f38097ed552969538d6717be1bff6e5377\output\AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] C:\Users\amber gautam\.android\build-cache\08e54fe00f57d04140999df0ab6e60a26ad30cf1\output\AndroidManifest.xml:5:5-7:41
+	tools:overrideLibrary
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:23:9-75
+	android:targetSdkVersion
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+		INJECTED from C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\src\main\AndroidManifest.xml
+meta-data#android.support.VERSION
+ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.0] C:\Users\amber gautam\.android\build-cache\043a7695d3d9c2dd9a48cf812d8010a526571c74\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.0] C:\Users\amber gautam\.android\build-cache\8179c5e4b3fcd63b704aea2d178ca43e3c7ea4b8\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\352bb739e9bdec0cffd2ece5842afbe923056d0d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.0] C:\Users\amber gautam\.android\build-cache\c2ac5906a4e8001be5a7bc83112ac2fbcb1723c3\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.0] C:\Users\amber gautam\.android\build-cache\d443efa7d2e975c3fd012f1b2cb662a6bb22845d\output\AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\110d6f2f51992dda28ffbb7603dee722e74ab735\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.0] C:\Users\amber gautam\.android\build-cache\13aa8ebeb156833509400f5fd346b26a34a1044e\output\AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-compat:25.3.0] C:\Users\amber gautam\.android\build-cache\005c97f38097ed552969538d6717be1bff6e5377\output\AndroidManifest.xml:25:5-27:34
+	android:value
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:appcompat-v7:25.3.0] C:\Users\amber gautam\.android\build-cache\ece6a347d0e1a9eb47e7ce0964be5b90c2f8fed3\output\AndroidManifest.xml:26:9-47

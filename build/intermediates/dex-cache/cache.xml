@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="07c8eaf72ff7bfaf679336579f073512cecdd1a1">
+        <dex dex="C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run-bootstrap_1365c421bcd1eb475cd10068035ef0b13ddbfb7f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="25.0.2"
+        sha1="510aa6efc159983dfbffa676a0dae37568c0a46f">
+        <dex dex="C:\Users\amber gautam\AndroidStudioProjects\A2ZDictionary\app\build\intermediates\transforms\dex\debug\folders\1000\10000\instant-run_8cd7de2729a917da430900d7c1ff5adf692a98cd\classes.dex" />
+    </item>
+
+</items>
